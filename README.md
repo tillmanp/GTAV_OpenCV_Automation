@@ -1,6 +1,9 @@
 # GTAV_OpenCV_Automation
 This project is focused on building a toolset for training datasets for applying automation to gameplay features in Grand Theft Auto V.
 
+This project is a work in progress and will be updated periodically.
+
+
 
 
 This project is intended for educational purposes only. This project is only intended for use with the Single Player element of GTA V, NOT for use in GTA Online.
