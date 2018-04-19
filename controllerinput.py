@@ -50,7 +50,7 @@ def ReleaseKey(hexKeyCode):
     x = Input( ctypes.c_ulong(1), ii_ )
     ctypes.windll.user32.SendInput(1, ctypes.pointer(x), ctypes.sizeof(x))
 
-# directx scan codes http://www.gamespp.com/directx/directInputKeyboardScanCodes.html
+# directx scan codes
 
 if __name__ == '__main__':
     while (True):
