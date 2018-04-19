@@ -1,5 +1,5 @@
 # GTAV_OpenCV_Automation
-This project is focused on building a toolset train datasets for applying automation to gameplay features in Grand Theft Auto V.
+This project is focused on building a toolset for training datasets for applying automation to gameplay features in Grand Theft Auto V.
 
 
 
