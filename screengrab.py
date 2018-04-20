@@ -2,6 +2,7 @@ from PIL import ImageGrab
 import numpy as np
 import cv2
 import time
+import pyautogui  ##workaround for window scaling problem
 
 last_time = time.time()
 
